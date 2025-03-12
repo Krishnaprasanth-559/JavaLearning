@@ -5,7 +5,8 @@ public class Lab010_Printf {
 
         int a=10, b=20;
 
-        System.out.printf("%d+%d",a,b);
+        System.out.printf("%d+%d \n",a,b);
+        System.out.printf("%d-%d\n",a,b);
 
     }
 }
